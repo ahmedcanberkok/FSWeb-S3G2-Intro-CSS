@@ -21,11 +21,11 @@ Hedeflenen sayfa dizaynı şu dosya içerisinde gösterilmiştir: [dizayn dosyas
 
 Aşağıdaki adımları takip edin.:
 
-- [ ] Repoyu forklayın ve klonlayın.
-- [ ] BRANCH OLUŞTURMAYIN. Güncellemelerinizi main/master 'a pushlayacaksınız.
-- [ ] Terminalden reponuzun bulunduğu klasöre ulaşın ve VS Code'u açmak için . yazın ve entera basın. Ya da VS Code içerisine proje klasörünü sürükleyip bırakabilirsiniz.
-- [ ] VS Code'un sol tarafındaki Eklentiler bölümünden Live Server eklentisini indirin. Eklenti yüklendikten sonra sağ altta bulunan "Go Live" butonuna basarak HTML dosyanızı çalıştırabilirsiniz.
-- [ ] Çalışmanızı düzenli commitlerle main branch'e aktarın. gönderdiğiniz URL programınızın en son versiyonuna göndermektedir.
+- [x ] Repoyu forklayın ve klonlayın.
+- [ x] BRANCH OLUŞTURMAYIN. Güncellemelerinizi main/master 'a pushlayacaksınız.
+- [x ] Terminalden reponuzun bulunduğu klasöre ulaşın ve VS Code'u açmak için . yazın ve entera basın. Ya da VS Code içerisine proje klasörünü sürükleyip bırakabilirsiniz.
+- [ x] VS Code'un sol tarafındaki Eklentiler bölümünden Live Server eklentisini indirin. Eklenti yüklendikten sonra sağ altta bulunan "Go Live" butonuna basarak HTML dosyanızı çalıştırabilirsiniz.
+- [ x] Çalışmanızı düzenli commitlerle main branch'e aktarın. gönderdiğiniz URL programınızın en son versiyonuna göndermektedir.
 
 ### Görev 2: Minimum Uygulanabilir Ürün
 
